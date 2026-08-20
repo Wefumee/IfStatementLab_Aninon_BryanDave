@@ -41,7 +41,7 @@ public class Ifstatementlab {
     
      
     //====================================
-    //Problem 2: Temperature Evuluator
+    //Problem 2: Temperature Evaluator
     //====================================
  
     System.out.println("Temperature Evaluator running...");
